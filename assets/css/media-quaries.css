@@ -1,0 +1,96 @@
+@media (max-width: 1199px){
+    .description-content{
+        padding: 0;
+    }
+    .description p{
+        padding: 0;
+    }
+    .description h2{
+        padding: 0;
+    }
+}
+@media (max-width: 991px){
+    .navbar-default .navbar-nav > li > a{
+        font-size: 14px;
+    }
+    .navbar-brand > img{
+        width: 130px;
+    }
+    .navbar-default{
+        padding: 25px 0;
+    }
+    .description h2{
+        font-size: 20px;
+    }
+    .description p{
+        font-size: 12px;
+    }
+    .description input{
+        padding: 5px 30px;
+    }
+    .signup input[type="email"]{
+        width: 400px;
+    }
+    .signup input[type="submit"]{
+        right: 15%;
+    }
+    .navbar-brand p{
+   		font-size: 35px
+    }
+    .navbar-brand span{
+    	font-size: 17px
+    }
+}
+@media (max-width: 767px){
+    .description h2{
+        font-size: 30px;
+    }
+    .description p{
+        font-size: 14px;
+    }
+    .description input{
+        padding: 16px 60px;
+    }
+    .signup input[type="email"]{
+        width: 300px;
+    }
+    .signup input[type="submit"]{
+        right: -6%;
+        padding: 12px 40px;
+    }
+    .banner-heading{
+        padding-top: 0;
+        padding-bottom: 20px;
+    }
+    .banner-heading h1{
+        font-size: 1.5em;
+    }
+    .banner-heading span{
+        font-size: 12px;
+    }
+    .main img{
+        width: 80px;
+    }
+    .main h3{
+        font-size: 16px;
+    }
+    .main p{
+        font-size: 12px;
+        width: 70%;
+    }
+    .banner-content{
+        top: 48%;
+    }
+    .read-more{
+        margin-top: 10px;
+    }
+    .btn-custom{
+        font-size: 15px;
+        padding: 12px 20px;
+    }
+    .sponsor {
+        font-size: 12px;
+        width: 33.33%;
+        float: left;
+    }
+}
